@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ajkControls", "ajkControls\ajkControls.csproj", "{C43436FA-980D-4D3C-BCB5-9EE6B494496C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeEditor", "codeEditor\codeEditor\codeEditor.csproj", "{CA5E5087-1436-4185-A775-9D38C5E8768E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeEditorPlugin", "codeEditor\codeEditorPlugin\codeEditorPlugin.csproj", "{F03533B2-988A-4B18-B937-0123E7689E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pluginVerilog", "pluginVerilog\pluginVerilog.csproj", "{F27C1188-D6D7-44C3-8188-8C79872EE9A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43436FA-980D-4D3C-BCB5-9EE6B494496C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43436FA-980D-4D3C-BCB5-9EE6B494496C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43436FA-980D-4D3C-BCB5-9EE6B494496C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43436FA-980D-4D3C-BCB5-9EE6B494496C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5E5087-1436-4185-A775-9D38C5E8768E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5E5087-1436-4185-A775-9D38C5E8768E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5E5087-1436-4185-A775-9D38C5E8768E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5E5087-1436-4185-A775-9D38C5E8768E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03533B2-988A-4B18-B937-0123E7689E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03533B2-988A-4B18-B937-0123E7689E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03533B2-988A-4B18-B937-0123E7689E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03533B2-988A-4B18-B937-0123E7689E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27C1188-D6D7-44C3-8188-8C79872EE9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27C1188-D6D7-44C3-8188-8C79872EE9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27C1188-D6D7-44C3-8188-8C79872EE9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27C1188-D6D7-44C3-8188-8C79872EE9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C338EB-0622-4C41-B241-86BF63BDE004}
+	EndGlobalSection
+EndGlobal
