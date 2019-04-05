@@ -1,3 +1,6 @@
 [submodule "ajkControls"]
 	path = ajkControls
 	url = https://github.com/ajkfds/ajkControls.git
+[submodule "codeEditor"]
+	path = codeEditor
+	url = https://github.com/ajkfds/codeEditor.git
