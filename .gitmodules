@@ -1,0 +1,3 @@
+[submodule "ajkControls"]
+	path = ajkControls
+	url = https://github.com/ajkfds/ajkControls.git
