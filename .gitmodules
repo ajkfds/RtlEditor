@@ -4,3 +4,6 @@
 [submodule "codeEditor"]
 	path = codeEditor
 	url = https://github.com/ajkfds/codeEditor.git
+[submodule "pluginVerilog"]
+	path = pluginVerilog
+	url = https://github.com/ajkfds/pluginVerilog.git
