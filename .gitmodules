@@ -13,3 +13,6 @@
 [submodule "pluginVivado"]
 	path = pluginVivado
 	url = https://github.com/ajkfds/pluginVivado.git
+[submodule "pluginTcl"]
+	path = pluginTcl
+	url = https://github.com/ajkfds/pluginTcl.git
