@@ -7,3 +7,9 @@
 [submodule "pluginVerilog"]
 	path = pluginVerilog
 	url = https://github.com/ajkfds/pluginVerilog.git
+[submodule "pluginC"]
+	path = pluginC
+	url = https://github.com/ajkfds/pluginC.git
+[submodule "pluginVivado"]
+	path = pluginVivado
+	url = https://github.com/ajkfds/pluginVivado.git
