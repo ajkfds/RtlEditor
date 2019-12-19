@@ -16,3 +16,6 @@
 [submodule "pluginTcl"]
 	path = pluginTcl
 	url = https://github.com/ajkfds/pluginTcl.git
+[submodule "pluginMarkdown"]
+	path = pluginMarkdown
+	url = https://github.com/ajkfds/pluginMarkdown.git
